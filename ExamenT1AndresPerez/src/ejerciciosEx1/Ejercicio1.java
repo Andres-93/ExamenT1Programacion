@@ -56,6 +56,7 @@ public class Ejercicio1 {
 		System.out.println("Numero de impares y multiplos de 5 introducidos = " + imparesMult);
 		System.out.println("Numeros menores de 18 = " + menores);
 		System.out.println("El mayor numero introducido ha sido = " + numMayor);
+		//Cerramos el scanner
 		sc.close();
 	}
 
